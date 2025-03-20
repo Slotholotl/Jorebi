@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!1101 &-9183584402098807588
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -50,6 +51,8 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+=======
+>>>>>>> Remi
 --- !u!1101 &-6144876780947983158
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -91,6 +94,7 @@ AnimatorStateMachine:
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1101 &-2686031112720774465
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -193,6 +197,8 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+=======
+>>>>>>> Remi
 --- !u!1102 &-345231258621212809
 AnimatorState:
   serializedVersion: 6
@@ -205,8 +211,11 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -6144876780947983158}
+<<<<<<< HEAD
   - {fileID: 2038107240290553777}
   - {fileID: -7716759478652297015}
+=======
+>>>>>>> Remi
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -298,6 +307,7 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
+<<<<<<< HEAD
 --- !u!1101 &1606498137403443135
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -455,6 +465,8 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+=======
+>>>>>>> Remi
 --- !u!1107 &3373559052205371428
 AnimatorStateMachine:
   serializedVersion: 6
@@ -466,6 +478,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -345231258621212809}
+<<<<<<< HEAD
     m_Position: {x: 60, y: 290, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1635752321096484154}
@@ -479,6 +492,9 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 3329397841153898592}
     m_Position: {x: -230, y: 290, z: 0}
+=======
+    m_Position: {x: 50, y: 280, z: 0}
+>>>>>>> Remi
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -489,6 +505,7 @@ AnimatorStateMachine:
   m_ExitPosition: {x: 180, y: 70, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -345231258621212809}
+<<<<<<< HEAD
 --- !u!1101 &6614401198542481428
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -542,3 +559,5 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+=======
+>>>>>>> Remi
